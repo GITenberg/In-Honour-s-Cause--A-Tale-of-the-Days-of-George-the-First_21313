@@ -1,0 +1,47 @@
+_repo: In-Honour-s-Cause--A-Tale-of-the-Days-of-George-the-First_21313
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Speed, Lancelot
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '9847'
+    url: http://www.gutenberg.org/2009/agents/9847
+    wikipedia: http://en.wikipedia.org/wiki/Lancelot_Speed
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. M. (George Manville)
+    - Fenn, G. Manville (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Honor -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- George I, 1714-1727 -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Treason -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Courts and courtiers -- Juvenile fiction'
+title: 'In Honour''s Cause: A Tale of the Days of George the First'
+url: http://www.gutenberg.org/ebooks/21313
